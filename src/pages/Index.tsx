@@ -371,7 +371,7 @@ export default function Index() {
                     </div>
                     <div>
                       <h3 className="font-semibold text-lg mb-1">Адрес</h3>
-                      <p className="text-muted-foreground">г. Москва, ул. Автозаводская, 23к1</p>
+                      <p className="text-muted-foreground">Курская область, пос. Юбилейный, ул. Индустриальная, 4</p>
                     </div>
                   </div>
                 </CardContent>
