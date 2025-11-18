@@ -35,7 +35,7 @@ export default function Index() {
         <nav className="container mx-auto px-4 py-4 flex items-center justify-between">
           <div className="flex items-center gap-2">
             <Icon name="Sparkles" size={28} className="text-primary" />
-            <span className="text-2xl font-bold text-accent">AutoPaint Pro</span>
+            <span className="text-2xl font-bold text-accent">У Емели</span>
           </div>
           <div className="hidden md:flex gap-6">
             <button onClick={() => scrollToSection('home')} className="hover:text-primary transition-colors font-medium">Главная</button>
@@ -385,8 +385,7 @@ export default function Index() {
                     </div>
                     <div>
                       <h3 className="font-semibold text-lg mb-1">Телефон</h3>
-                      <p className="text-muted-foreground">+7 (495) 123-45-67</p>
-                      <p className="text-muted-foreground">+7 (926) 987-65-43</p>
+                      <p className="text-muted-foreground">8 (962) 375-46-66</p>
                     </div>
                   </div>
                 </CardContent>
@@ -415,7 +414,7 @@ export default function Index() {
         <div className="container mx-auto text-center">
           <div className="flex items-center justify-center gap-2 mb-4">
             <Icon name="Sparkles" size={32} className="text-primary" />
-            <span className="text-2xl font-bold">AutoPaint Pro</span>
+            <span className="text-2xl font-bold">У Емели</span>
           </div>
           <p className="text-white/80 mb-6">
             Профессиональная окраска и обработка автомобилей
